@@ -8,7 +8,7 @@
         "sizes": "512x512"
       }
     ],
-    "start_url": "/RRM/?source=pwa",
+    "start_url": "/RRM/??homescreen=1",
     "background_color": "#3367D6",
     "display": "standalone",
     "scope": "/RRM/",
